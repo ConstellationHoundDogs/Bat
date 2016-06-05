@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 2c83a4763e8fd416583304b39ca3f56a
+timeCreated: 1442266913
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mouse_atlas_0
+    21300002: mouse_atlas_1
+    21300004: mouse_atlas_2
+    21300006: mouse_atlas_3
+    21300008: mouse_atlas_4
+    21300010: mouse_atlas_5
+    21300012: mouse_atlas_6
+    21300014: mouse_atlas_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: mouse_atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 972
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_atlas_1
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1143
+        width: 1071
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_atlas_2
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1148
+        width: 1163
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_atlas_3
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 1165
+        width: 1447
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_atlas_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 1074
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_atlas_5
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 204
+        width: 1482
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_atlas_6
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 342
+        width: 1357
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mouse_atlas_7
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 350
+        width: 1207
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
